@@ -53,3 +53,7 @@ The ***** within single and multiple choice indicates the correct answer. The sy
 ## Correct and Incorrect Answers
 
 When a user clicks **Check Answers**, the correct answers will appear with a Green tick! If they have entered anything incorrect they will be asked to check and try again.
+
+## And this should run the command `top`
+
+`top`{{execute}}
