@@ -1,6 +1,6 @@
 {
-  "title": "Mike Testing",
-  "description": "This is my test to see how Katacoda works",
+  "title": "Linear Algebra: Gaussian Elimination",
+  "description": "Let's see how to perform Gaussian elimination using Python.  This will involve a quick refresher on Gaussian elimination, then a look at how to do some of this work on a computer, specifically using Python.",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
